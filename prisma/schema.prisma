@@ -1,0 +1,164 @@
+// Prisma schema for the weekly CTF platform.
+// Docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum Role {
+  USER
+  ADMIN
+}
+
+// Engineering branches (RVCE codes) for user profiles.
+enum Branch {
+  ASE
+  BT
+  CH
+  CV
+  CSE
+  AIML
+  CY
+  CD
+  EEE
+  ECE
+  EIE
+  IEM
+  ISE
+  ME
+  ETE
+}
+
+// Year of study.
+enum Year {
+  FIRST
+  SECOND
+  THIRD
+  FOURTH
+}
+
+// Email token purpose.
+enum TokenType {
+  VERIFY
+  RESET
+}
+
+// How a submitted flag is compared to the stored answer for a challenge.
+enum MatchMode {
+  EXACT_CS // exact, case-sensitive
+  EXACT_CI // exact, trimmed + case-insensitive
+  REGEX // submission must match a stored regular expression
+  MULTI // submission must equal one of several accepted answers
+}
+
+model User {
+  id           String       @id @default(cuid())
+  email        String       @unique
+  username     String       @unique
+  passwordHash String
+  role         Role         @default(USER)
+  disabled     Boolean      @default(false)
+  hidden       Boolean      @default(false) // ghosted: excluded from counts, leaderboard, profiles
+  emailVerified DateTime?   // null = not yet verified
+  createdAt    DateTime     @default(now())
+
+  // Profile (collected at registration / editable later). Nullable so legacy
+  // rows migrate cleanly; required-ness is enforced by the registration schema.
+  name       String?
+  usn        String? @unique // normalized uppercase, e.g. 1RV22CS001
+  bio        String?
+  avatarPath String? // stored filename under UPLOAD_DIR
+  year       Year?
+  branch     Branch?
+
+  submissions Submission[]
+  solves      Solve[]
+  tokens      EmailToken[]
+}
+
+// Single-use, expiring tokens for email verification and password reset.
+model EmailToken {
+  id        String    @id @default(cuid())
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  userId    String
+  token     String    @unique
+  type      TokenType
+  expiresAt DateTime
+  createdAt DateTime  @default(now())
+
+  @@index([userId, type])
+}
+
+// One challenge per week.
+model Challenge {
+  id          String   @id @default(cuid())
+  week        Int      @unique
+  title       String
+  category    String   @default("misc")
+  volunteer   String?
+  description String   @default("") // markdown
+  published   Boolean  @default(false)
+  releaseAt   DateTime @default(now())
+  closeAt     DateTime?
+
+  // Dynamic decaying score config (CTFd-style).
+  initialPoints Int @default(500)
+  minPoints     Int @default(100)
+  decay         Int @default(20)
+
+  // Flag config — never exposed to the client.
+  matchMode MatchMode @default(EXACT_CS)
+  // For EXACT_* modes this holds a hash; for REGEX it holds the pattern;
+  // for MULTI it holds a JSON array of accepted plaintext answers.
+  flagData  String
+
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  attachments Attachment[]
+  submissions Submission[]
+  solves      Solve[]
+}
+
+// Metadata for a file stored on disk under UPLOAD_DIR.
+model Attachment {
+  id           String    @id @default(cuid())
+  challenge    Challenge @relation(fields: [challengeId], references: [id], onDelete: Cascade)
+  challengeId  String
+  originalName String
+  storedName   String    @unique
+  mimeType     String
+  size         Int
+  createdAt    DateTime  @default(now())
+}
+
+// Every flag attempt, for auditing and rate limiting.
+model Submission {
+  id          String    @id @default(cuid())
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  userId      String
+  challenge   Challenge @relation(fields: [challengeId], references: [id], onDelete: Cascade)
+  challengeId String
+  value       String
+  correct     Boolean
+  createdAt   DateTime  @default(now())
+
+  @@index([userId, challengeId, createdAt])
+}
+
+// A user's (single) successful solve of a challenge.
+model Solve {
+  id          String    @id @default(cuid())
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  userId      String
+  challenge   Challenge @relation(fields: [challengeId], references: [id], onDelete: Cascade)
+  challengeId String
+  solvedAt    DateTime  @default(now())
+
+  @@unique([userId, challengeId])
+  @@index([challengeId])
+}
