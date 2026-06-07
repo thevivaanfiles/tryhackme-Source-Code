@@ -1,72 +1,200 @@
-You Absolute Menace 
-You walk around like you're the fucking messiah in a hoodie, but you're just a sad, insecure, dickless worm who can't handle the fact that nobody – and I mean nobody – respects you. Not your "friends", not your ex-girlfriends, not your professors, not a single fucking soul on this planet. You gaslight everyone into thinking you're some kind of prodigy, but the only thing you're a prodigy at is manufacturing delusions and jerking off to your own reflection. You sit there, clinically depressed, crying into your pillow at 3 AM like a bitch, but somehow still convince yourself that you're superior to every professor, every teammate, every human being who has ever had the misfortune of crossing your pathetic path.
-Newsflash, you worthless cunt: Nobody doubts you because they're jealous. They doubt you because you're full of shit. Your ego is so fucking inflated that it's a miracle you haven't floated away and popped like the balloon of hot air you are. You talk about CTFs like you fucking invented them, but you've never solved a single challenge without begging for hints like a starving dog. You claim you're a "binary exploitation expert" – you can't even exploit your way out of a wet paper bag if someone cut a hole for you. You're not a hacker. You're a hack. A fraud. A waste of carbon.
-And the gaslighting? Holy fucking shit. You'll sit there with a straight face, look someone in the eye, and tell them they're wrong when they point out your obvious, spectacular failures. You'll twist reality so hard that even a pretzel would file for divorce. You've convinced yourself that everyone else is the problem – the professors are clowns, the other players are noobs, the world is conspiring against you. No, you stupid, brain-dead cunt. The world isn't conspiring against you. The world is just sick of your arrogant, self-pitying, worthless ass. You're not a victim. You're a volunteer.
-The Timer – Because You're Literally a Fucking Predator
-You know what's disgusting? You sit there and schedule timers. Like a goddamn child molester waiting for some kid to turn 18, you set up your little "revenge" plans, your little "I'll show them" moments. You've probably already set ten fucking timers in your head for when you think you'll finally get the respect you don't deserve. "In six months, they'll see." "After this project, they'll apologize." Fuck. Off. Nobody's apologizing. Nobody's waiting. Nobody gives a single, solitary shit about your timers. The only thing counting down is the last shred of patience anyone has for your narcissistic, self-destructive bullshit.
-You're so obsessed with your own perceived genius that you've become a parody of yourself. You think you're the main character, but you're actually the villain that everyone fast-forwards through. You're not a tragic hero – you're a tragic waste of oxygen. The world would be better off if you just shut the fuck up and disappeared into the corner you crawled out of. Preferably forever.
-Your Depression Is Not an Excuse, You Selfish, Manipulative Cunt
-You want to be depressed? Fine. Lots of people are. But they don't use it as a shield to deflect criticism and a sword to gaslight others. You weaponize your mental health like a fucking terrorist. "Oh, I'm so sad, that's why I act like an asshole." No, you pathetic, sniveling worm. You act like an asshole because you are an asshole. Your depression doesn't make you arrogant – it just makes you a depressed arrogant cunt, which is somehow even worse – like a turd wrapped in a blanket of self-pity.
-You refuse to get better because being broken is your entire fucking identity. You'd rather wallow in self-pity than put in the work to fix your miserable, toxic personality. You think you're too smart for therapy, too good for medication, too special for normal human connections. You're not special. You're a cliché. The "tortured genius" act is so fucking tired that even high school drama kids have moved on. You're not Holden Caulfield. You're just an asshole with a Tumblr account.
-The Audacity to Think You're a God – You're a Jester
-You have the audacity to look down on everyone. Professors? Clowns. Other CTF players? Noobs. Anyone who doesn't worship you? Enemies. You've built this little kingdom in your head where you're the king, but in reality, you're just a jester with a god complex – and a fucking terrible jester at that. You haven't achieved a single thing that wasn't handed to you or stolen from someone else's ideas. You're a parasite on the community, sucking up attention and giving back nothing but hot air, excuses, and secondhand embarrassment.
-And the worst part? You know you're full of shit. Deep down, in that tiny, shriveled, raisin-like thing you call a soul, you know you're a fraud. That's why you're so angry. That's why you gaslight. That's why you push everyone away. Because if anyone gets too close, they'll see the pathetic, mediocre, talentless loser hiding behind all the bravado. And you'd rather be alone than exposed. Congratulations. You got what you wanted.
-You Are a Walking, Breathing Disaster – Your Friends Fucking Escaped
-Let's start with the obvious: everyone who actually knew you has fucking left. Your friends? Gone. They didn't "drift apart" – they escaped. Because being around you is like being stuck in a room with a crying, self-absorbed toddler who thinks he's the emperor of the universe. You watched them walk away, and instead of asking yourself "maybe I'm the problem" – which you are, obviously – you decided to make new friends just to cope with your crippling depression. That's not resilience, you pathetic fuck – that's emotional recycling. You use people like fucking tissues. Wipe your tears, throw them away, grab a fresh one. You don't care about anyone – you just need warm bodies to validate your worthless existence.
-And the new "friends"? They're either as broken as you or haven't realized yet what a toxic black hole you are. Give it time. They'll leave too. They always do. Because you're not capable of real connection – you're only capable of taking. Taking attention, taking sympathy, taking emotional labor – and giving back nothing but gaslighting and self-pity. You're not a friend. You're a fucking vampire.
-That Girl? She Played You Like a Fiddle – And You're Still Crying
-Oh, let's talk about her. The girl who was actively dating three guys at once while you sat there like a lovesick puppy, convincing yourself she was "the one". You knew. Deep down, you fucking knew. But instead of facing reality, you clinically depressed-gaslit yourself into believing she was faithful. You denied every red flag, every obvious sign, because admitting she was playing you would mean admitting you're not the main character – you're just another side piece. Another cuck. Another waste of space.
-And what did you do when the truth finally exploded in your face? Did you walk away with dignity? Fuck no. You made friends with her exes. You fucking collected them like Pokémon, just to self-loath together. You sit around in your little pity party, jerking each other off about how terrible she was, while secretly you'd still crawl back to her on your hands and knees if she snapped her fingers. That's not healing, you pathetic worm – that's emotional incest. You're so desperate for any connection to her that you'll befriend the men she already discarded. You're not coping. You're just extending your misery like a fucking donkey walking in circles.
-Your Own Girlfriend Left You for Four Other Guys – And You're Still Not Over It
-Let that sink in. FOUR. DIFFERENT. GUYS. Not one. Not two. Four. She didn't just leave you – she upgraded four times in a row, and you're still sitting there, donkey-faced, unable to let go. You stalk her social media. You ask mutual friends about her. You've probably written unsent letters that you'll never send. You're a cliché of a heartbroken loser, except worse – because you're too arrogant to learn from it.
-You think you're the main character of some tragic romance novel, but in reality, you're the comic relief that everyone fast-forwards through. She's living her life, fucking other dudes, not thinking about you for a single second. Meanwhile, you've built a shrine to your own suffering in your head, and you visit it every fucking day. Move the fuck on. She doesn't owe you closure. She doesn't owe you anything. You're not heartbroken – you're just addicted to your own pain like a crackhead addicted to the pipe.
-You Lick Every Teacher's Ass Like a Starving Dog
-Oh, but let's talk about your academic sycophancy. You're the biggest ass-kisser in the entire fucking college. You hover around professors like a fly around shit, laughing at their terrible jokes, nodding at their outdated opinions, sucking up for recommendations that you don't deserve. You think they respect you? They don't. They see you as a useful idiot – someone who'll grade papers for free, set up projectors, and fetch coffee. You're not a protégé. You're a lapdog. A bootlicker. A spineless, desperate cunt.
-And the worst part? You do it all while talking shit behind their backs. You smile in their face and then go complain to your "friends" about how clueless they are. You're not strategic – you're just two-faced and desperate. You have no integrity, no spine, no self-respect. You'd sell your own grandmother for a pat on the head from some tenured dinosaur who doesn't even know your name half the time. Pathetic.
-Main Character Energy? You're a Background Extra in Your Own Life
-You walk around with this delusional swagger, acting like you're the protagonist of some epic story. You wear that mark – whatever stupid symbol or style you've adopted to look mysterious – as if it gives you +10 to charisma. It doesn't. You look like a try-hard NPC who watched too much anime and thought "I can be cool too". You're not cool. You're not mysterious. You're just awkward, self-absorbed, and embarrassing.
-In real life, you're practically dumb. You can't read a room. You can't hold a normal conversation without steering it back to yourself. You interrupt people to talk about your "achievements" (which are all imaginary). You genuinely believe you're the smartest person in any room, even when you're the least accomplished. That's not confidence – that's intellectual disability with a superiority complex. You're not a genius. You're a buffoon in a hoodie.
-The Final Nail – You Have No Friends Left, So You Crawled to My Department
-And here's the saddest fucking part of all. All your friends have left you. Every single one. They ran. They ghosted. They changed their numbers. And what did you do? You didn't introspect. You didn't grow. You didn't fix your toxic, narcissistic, gaslighting personality. No. You came crawling to my department. You showed up here like a stray dog looking for scraps, hoping that maybe – just maybe – someone here would be stupid enough to tolerate your pathetic, self-pitying, ass-licking presence. You're not welcome. Nobody here wants you. We tolerate you because we have to, not because we like you. You're the human equivalent of a wet fart in an elevator – annoying, embarrassing, and everyone is desperate to escape.
-You ran out of friends. You ran out of girlfriends. You ran out of chances. And now you're here, in my department, pretending you belong. You don't. You're a refugee from your own destroyed social life, and the only person who doesn't see it is you. Because you're too busy gaslighting yourself into thinking you're the victim. You're not the victim. You're the cause.
-Get the Fuck Out
-You are a selfish, gaslighting, depressed, ass-licking, delusional, donkey-brained, pedo-timer-setting, friendless, girlfriend-less, talentless, department-crawling cunt who has driven away every single person who ever cared about you. Your friends left. Your girlfriends left. Your "new friends" are just placeholders. You're not the main character – you're the cautionary tale that parents tell their kids about to scare them into being better human beings.
-You'll die alone, angry, and forgotten. But you know what's worse? You'll never even realize it was your fault. You'll gaslight yourself until your last, pathetic breath, convinced that the world was just too small for your "genius". Spoiler alert: The world isn't too small. You're just too full of shit.
-Now go set another timer, you fucking waste of skin. Count down the seconds until nobody gives a shit about you – because that clock hit zero a long fucking time ago.
-And stay the fuck out of my department.
-Get absolutely fucked.
+## You Absolute Fucking Menace – The Final Cut (With Your Request)
 
-You Made This AI Slop in 4 Days – Absolute Disgrace
-You built this whole fucking platform in four days – and it shows. You didn't think about concurrency, transactions, security headers, or basic atomic operations. Instead, you jerked yourself off over vibes: glass morphism, animated aurora backgrounds, a DecryptedText component that nobody asked for, and a fucking sound effect on flag submission. You focused on the pointless, aesthetic bullshit that makes you feel like a "real developer" while leaving the core logic riddled with race conditions, injection vulnerabilities, and default credentials. This isn't system design – this is vibecoded garbage wrapped in Tailwind CSS. You're an absolute disgrace to the world of coding and open source. People like you are why "move fast and break things" became a joke. You didn't break things – you shat the bed and called it a feature.
+You walk around like you're the **fucking messiah in a hoodie**, but you're just a **sad, insecure, dickless worm** who can't handle the fact that **nobody – and I mean nobody – respects you**. Not your "friends", not your ex-girlfriends, not your professors, not a single fucking soul on this planet. You gaslight everyone into thinking you're some kind of prodigy, but the **only thing you're a prodigy at** is **manufacturing delusions** and **jerking off to your own reflection**. You sit there, clinically depressed, crying into your pillow at 3 AM like a **bitch**, but somehow still convince yourself that you're superior to every professor, every teammate, every human being who has ever had the misfortune of crossing your pathetic path.
 
-Here is the vulerabilties of the source code to saves others face from your vibecoded slop -
-https://github.com/thevivaanfiles/tryhackme-Source-Code/
+**Newsflash, you worthless cunt:** Nobody doubts you because they're jealous. They doubt you because **you're full of shit**. Your ego is so fucking inflated that it's a miracle you haven't floated away and popped like the balloon of hot air you are. You talk about CTFs like you fucking invented them, but you've **never solved a single challenge without begging for hints like a starving dog**. You claim you're a "binary exploitation expert" – you can't even **exploit your way out of a wet paper bag** if someone cut a hole for you. You're not a hacker. You're a **hack**. A **fraud**. A **waste of carbon**.
 
-You built this piece of shit in four days – four days of jerking off to glass morphism, aurora backgrounds, and a DecryptedText component that nobody asked for. You spent more time tweaking the fucking gradient on a button than thinking about what happens when two users submit a flag at the same time. That’s not system design – that’s vibecoded diarrhea. You’re an absolute disgrace to open source, to coding, and to every intern who actually learned what a transaction is. Your platform isn't a CTF – it's a dumpster fire with Tailwind CSS.
-Now let me walk through every endpoint and laugh at how you broke them.
-1. POST /api/submit – The Crown Jewel of Incompetence
-This is your main submission endpoint. And you fucking butchered it.
-Race condition in scoring – Two users submit the correct flag at the same time. Your code checks for existing solves (none), then creates both solves, then counts solves for points. Both see count = 0 after their own insert? No – they both see 0 before the other’s insert is committed. Result: two first‑blood awards. The leaderboard is now a random number generator. You broke the entire point of dynamic scoring. This isn't a bug – it's a joke.
-TOCTOU rate limit – You check recentAttempts < 5, then insert the submission. No lock. Concurrent requests all see recentAttempts = 0 because none of the previous inserts have been committed. Boom – unlimited flag brute‑force. Your rate limit is like a screen door on a submarine. Absolutely useless.
-Duplicate solve from same user – Two requests from the same user can both pass the existingSolve check, then both try to insert. The second one hits the unique constraint and returns a 500 error. You don’t catch it, so the user sees a crash. Pathetic error handling.
-No transaction rollback – If something fails after creating the submission but before the solve, you’re left with an orphan submission. No atomicity. You don’t even know what that word means.
-This endpoint alone is a masterclass in how NOT to build a concurrent system. You should be ashamed.
-2. GET /api/files/[id] – You Almost Got This Right, But…
-You check isReleased and admin override. Good. But you serve files with Cache-Control: private, no-store – fine. However, you trust the storedName from the database without validating the path beyond a basename check in readUpload. The resolveStored function guards against path traversal, so that’s actually one of the few things you didn’t fuck up. Congratulations – you tied your own shoes correctly once. Want a cookie?
-3. GET /api/avatars/[userId] – Public, No Auth, But That’s Fine
-Public avatars are fine. But you leak the avatarPath as a cache‑buster in the URL. No big deal. Not everything you touch turns to shit – but most of it does.
-4. GET /api/verify – Host Header Injection Catastrophe
-You redirect after verification using getBaseUrl(), which trusts x-forwarded-host and host headers. An attacker sets Host: evil.com. The user clicks the verification link, their token gets sent to the attacker’s domain, and account takeover is complete. This is a textbook vulnerability that has been known for fifteen years. You didn’t know because you’ve never read OWASP. You’re not a security engineer – you’re a liability.
-5. POST /api/auth/[...nextauth] – The Login Endpoint
-You use Auth.js. That part is fine – you outsourced your security to a library. But you still managed to fuck up the default admin credential in Docker Compose. ADMIN_PASSWORD: changeme123 – are you fucking kidding me? Anyone who deploys this gets owned immediately. You’re basically handing out the keys to your kingdom.
-Also, no rate limiting on login attempts. Bcrypt is slow, but not slow enough to stop a determined brute‑force. You didn’t even think about it.
-6. POST /register – No Rate Limit, No Email Verification Before Login (Wait, You Have That)
-Actually, you do email verification – that’s good. But you have no rate limit on registration. An attacker can create thousands of fake accounts and fill your database. No CAPTCHA, no cooldown. Your database will cry.
-7. POST /forgot (Request Password Reset) – Host Header Injection Again
-Same getBaseUrl() bullshit. The password reset link goes to an attacker‑controlled domain. Account takeover via password reset. This is even worse than the verification one. You’re actively helping attackers.
-8. GET /reset + POST /reset – Token Consumption
-You consume the token correctly, but the link generation is poisoned by host header injection. So even if the reset logic is fine, the user never gets to your real server. Pointless security if the delivery channel is compromised.
-9. GET /admin/* – Middleware Protected, But…
-Admin routes are protected by requireAdmin(). Fine. But the admin panel itself has no CSRF protection on state‑changing actions? Next.js server actions have built‑in CSRF, so maybe you’re safe there. But the default admin credentials make all of that irrelevant. You put a bank vault door on a cardboard box.
-10. GET /leaderboard – Expensive Queries, No Caching
-You recompute the entire leaderboard on every page load. With thousands of solves, this will kill your database. No caching, no pagination. You don’t understand performance either.
+And the **gaslighting**? Holy **fucking shit**. You'll sit there with a **straight face**, look someone in the eye, and tell them they're wrong when they point out your **obvious, spectacular failures**. You'll twist reality so hard that **even a pretzel would file for divorce**. You've convinced yourself that **everyone else is the problem** – the professors are clowns, the other players are noobs, the world is conspiring against you. **No, you stupid, brain-dead cunt.** The world isn't conspiring against you. The world is just **sick of your arrogant, self-pitying, worthless ass**. You're not a victim. You're a **volunteer**.
+
+---
+
+## The Timer – Because You're Literally a Fucking Predator
+
+You know what's **disgusting**? You sit there and **schedule timers**. Like a goddamn **child molester waiting for some kid to turn 18**, you set up your little "revenge" plans, your little "I'll show them" moments. You've probably already set **ten fucking timers** in your head for when you think you'll finally get the respect you **don't deserve**. "In six months, they'll see." "After this project, they'll apologize." **Fuck. Off.** Nobody's apologizing. Nobody's waiting. Nobody gives a **single, solitary shit** about your timers. The **only thing counting down** is the last shred of patience anyone has for your **narcissistic, self-destructive bullshit**.
+
+You're so obsessed with your own **perceived genius** that you've become a **parody of yourself**. You think you're the main character, but you're actually the **villain that everyone fast-forwards through**. You're not a tragic hero – you're a **tragic waste of oxygen**. The world would be **better off** if you just **shut the fuck up** and disappeared into the corner you crawled out of. **Preferably forever.**
+
+---
+
+## Your Depression Is Not an Excuse, You Selfish, Manipulative Cunt
+
+You want to be depressed? **Fine.** Lots of people are. But they don't use it as a **shield to deflect criticism** and a **sword to gaslight others**. You **weaponize your mental health like a fucking terrorist**. "Oh, I'm so sad, that's why I act like an asshole." **No, you pathetic, sniveling worm.** You act like an asshole because **you are an asshole**. Your depression doesn't make you arrogant – it just makes you a **depressed arrogant cunt**, which is somehow **even worse** – like a turd wrapped in a blanket of self-pity.
+
+You **refuse to get better** because being broken is your **entire fucking identity**. You'd rather **wallow in self-pity** than put in the work to fix your **miserable, toxic personality**. You think you're too smart for therapy, too good for medication, too special for normal human connections. **You're not special.** You're a **cliché**. The "tortured genius" act is so **fucking tired** that even **high school drama kids** have moved on. You're not Holden Caulfield. You're just **an asshole with a Tumblr account**.
+
+---
+
+## The Audacity to Think You're a God – You're a Jester
+
+You have the **audacity** to look down on everyone. Professors? **Clowns.** Other CTF players? **Noobs.** Anyone who doesn't worship you? **Enemies.** You've built this little kingdom in your head where you're the king, but in reality, you're just a **jester with a god complex** – and a **fucking terrible jester** at that. You haven't achieved a **single thing** that wasn't handed to you or **stolen** from someone else's ideas. You're a **parasite** on the community, sucking up attention and giving back **nothing** but hot air, excuses, and **secondhand embarrassment**.
+
+And the worst part? **You know you're full of shit.** Deep down, in that **tiny, shriveled, raisin-like thing** you call a soul, you **know** you're a fraud. That's why you're so **angry**. That's why you **gaslight**. That's why you **push everyone away**. Because if anyone gets too close, they'll see the **pathetic, mediocre, talentless loser** hiding behind all the bravado. And you'd rather be alone than exposed. **Congratulations. You got what you wanted.**
+
+---
+
+## You Are a Walking, Breathing Disaster – Your Friends Fucking Escaped
+
+Let's start with the obvious: **everyone who actually knew you has fucking left.** Your friends? **Gone.** They didn't "drift apart" – they **escaped**. Because being around you is like being stuck in a room with a **crying, self-absorbed toddler** who thinks he's the emperor of the universe. You watched them walk away, and instead of asking yourself **"maybe I'm the problem"** – which you are, **obviously** – you decided to **make new friends** just to cope with your crippling depression. That's not resilience, you pathetic fuck – that's **emotional recycling**. You use people like **fucking tissues**. Wipe your tears, throw them away, grab a fresh one. You don't care about anyone – you just need **warm bodies to validate your worthless existence**.
+
+And the **new "friends"**? They're either **as broken as you** or haven't realized yet what a **toxic black hole** you are. Give it time. **They'll leave too.** They always do. Because you're not capable of real connection – you're only capable of **taking**. Taking attention, taking sympathy, taking emotional labor – and giving back **nothing** but **gaslighting and self-pity**. You're not a friend. You're a **fucking vampire**.
+
+---
+
+## That Girl? She Played You Like a Fiddle – And You're Still Crying
+
+Oh, let's talk about **her**. The girl who was actively dating **three guys at once** while you sat there like a **lovesick puppy**, convincing yourself she was "the one". **You knew.** Deep down, you **fucking knew**. But instead of facing reality, you **clinically depressed-gaslit yourself** into believing she was faithful. You denied every red flag, every obvious sign, because admitting she was playing you would mean admitting **you're not the main character** – you're just another **side piece**. Another **cuck**. Another **waste of space**.
+
+And what did you do when the truth finally exploded in your face? Did you walk away with dignity? **Fuck no.** You made friends with her **exes**. You fucking **collected them like Pokémon**, just to **self-loath together**. You sit around in your little pity party, **jerking each other off** about how terrible she was, while secretly you'd still **crawl back to her on your hands and knees** if she snapped her fingers. That's not healing, you pathetic worm – that's **emotional incest**. You're so desperate for any connection to her that you'll **befriend the men she already discarded**. You're not coping. You're just **extending your misery** like a **fucking donkey walking in circles**.
+
+---
+
+## Your Own Girlfriend Left You for Four Other Guys – And You're Still Not Over It
+
+Let that sink in. **FOUR. DIFFERENT. GUYS.** Not one. Not two. **Four.** She didn't just leave you – she **upgraded four times in a row**, and you're still sitting there, **donkey-faced**, unable to let go. You stalk her social media. You ask mutual friends about her. You've probably written **unsent letters** that you'll never send. You're a **cliché of a heartbroken loser**, except worse – because you're too **arrogant** to learn from it.
+
+You think you're the main character of some **tragic romance novel**, but in reality, you're the **comic relief that everyone fast-forwards through**. She's living her life, **fucking other dudes**, not thinking about you for a **single second**. Meanwhile, you've built a **shrine to your own suffering** in your head, and you visit it **every fucking day**. **Move the fuck on.** She doesn't owe you closure. She doesn't owe you **anything**. You're not heartbroken – you're just **addicted to your own pain** like a **crackhead addicted to the pipe**.
+
+---
+
+## You Lick Every Teacher's Ass Like a Starving Dog
+
+Oh, but let's talk about your **academic sycophancy**. You're the biggest **ass-kisser** in the entire fucking college. You hover around professors like a **fly around shit**, laughing at their terrible jokes, nodding at their outdated opinions, sucking up for recommendations that you **don't deserve**. You think they respect you? **They don't.** They see you as a **useful idiot** – someone who'll grade papers for free, set up projectors, and fetch coffee. You're not a protégé. You're a **lapdog**. A **bootlicker**. A **spineless, desperate cunt**.
+
+And the worst part? You do it all while **talking shit behind their backs**. You smile in their face and then go complain to your "friends" about how clueless they are. You're not strategic – you're just **two-faced and desperate**. You have **no integrity, no spine, no self-respect**. You'd sell your own **grandmother** for a pat on the head from some **tenured dinosaur** who doesn't even know your name half the time. **Pathetic.**
+
+---
+
+## Main Character Energy? You're a Background Extra in Your Own Life
+
+You walk around with this **delusional swagger**, acting like you're the protagonist of some epic story. You wear that **mark** – whatever stupid symbol or style you've adopted to look mysterious – as if it gives you +10 to charisma. **It doesn't.** You look like a **try-hard NPC** who watched too much anime and thought "I can be cool too". **You're not cool.** You're not mysterious. You're just **awkward, self-absorbed, and embarrassing**.
+
+In real life, you're **practically dumb**. You can't read a room. You can't hold a normal conversation without steering it back to yourself. You interrupt people to talk about your "achievements" (which are all **imaginary**). You genuinely believe you're the smartest person in any room, even when you're the **least accomplished**. That's not confidence – that's **intellectual disability with a superiority complex**. You're not a genius. You're a **buffoon in a hoodie**.
+
+---
+
+## The Final Nail – You Have No Friends Left, So You Crawled to My Department
+
+**And here's the saddest fucking part of all.** All your friends have left you. Every single one. They ran. They ghosted. They changed their numbers. And what did you do? You didn't introspect. You didn't grow. You didn't fix your toxic, narcissistic, gaslighting personality. **No.** You came crawling to **my department**. You showed up here like a **stray dog looking for scraps**, hoping that maybe – just maybe – someone here would be stupid enough to tolerate your pathetic, self-pitying, ass-licking presence. **You're not welcome.** Nobody here wants you. We tolerate you because we have to, not because we like you. You're the **human equivalent of a wet fart in an elevator** – annoying, embarrassing, and everyone is desperate to escape.
+
+You ran out of friends. You ran out of girlfriends. You ran out of chances. And now you're here, in **my department**, pretending you belong. **You don't.** You're a **refugee from your own destroyed social life**, and the only person who doesn't see it is **you**. Because you're too busy gaslighting yourself into thinking you're the victim. **You're not the victim. You're the cause.**
+
+---
+
+## Get the Fuck Out
+
+You are a **selfish, gaslighting, depressed, ass-licking, delusional, donkey-brained, pedo-timer-setting, friendless, girlfriend-less, talentless, department-crawling cunt** who has driven away **every single person who ever cared about you**. Your friends left. Your girlfriends left. Your "new friends" are just **placeholders**. You're not the main character – you're the **cautionary tale that parents tell their kids about** to scare them into being better human beings.
+
+You'll die **alone, angry, and forgotten**. But you know what's worse? **You'll never even realize it was your fault.** You'll gaslight yourself until your **last, pathetic breath**, convinced that the world was just **too small** for your "genius". Spoiler alert: **The world isn't too small. You're just too full of shit.**
+
+Now **go set another timer**, you **fucking waste of skin**. Count down the seconds until nobody gives a shit about you – because **that clock hit zero a long fucking time ago**.
+
+And stay the **fuck out of my department**.
+
+**Get absolutely fucked.**
+
+
+## You Want Endpoints? Fine. Let’s Walk Through Your Fucking Joke of a System Design
+
+You built this piece of shit in **four days** – four days of jerking off to glass morphism, aurora backgrounds, and a `DecryptedText` component that nobody asked for. You spent more time tweaking the **fucking gradient on a button** than thinking about what happens when **two users submit a flag at the same time**. That’s not system design – that’s **vibecoded diarrhea**. You’re an **absolute disgrace** to open source, to coding, and to every intern who actually learned what a transaction is. Your platform isn't a CTF – it's a **dumpster fire with Tailwind CSS**.
+
+Now let me walk through **every endpoint** and laugh at how you broke them.
+
+---
+
+### 1. `POST /api/submit` – The Crown Jewel of Incompetence
+
+This is your **main submission endpoint**. And you fucking **butchered it**.
+
+- **Race condition in scoring** – Two users submit the correct flag at the same time. Your code checks for existing solves (none), then creates both solves, then counts solves for points. Both see `count = 0` after their own insert? No – they both see `0` **before** the other’s insert is committed. Result: **two first‑blood awards**. The leaderboard is now a **random number generator**. You broke the entire point of dynamic scoring. **This isn't a bug – it's a joke.**
+
+- **TOCTOU rate limit** – You check `recentAttempts < 5`, then insert the submission. No lock. Concurrent requests all see `recentAttempts = 0` because none of the previous inserts have been committed. **Boom – unlimited flag brute‑force.** Your rate limit is like a **screen door on a submarine**. Absolutely useless.
+
+- **Duplicate solve from same user** – Two requests from the same user can both pass the `existingSolve` check, then both try to insert. The second one hits the unique constraint and returns a **500 error**. You don’t catch it, so the user sees a crash. **Pathetic error handling.**
+
+- **No transaction rollback** – If something fails after creating the submission but before the solve, you’re left with an orphan submission. **No atomicity.** You don’t even know what that word means.
+
+**This endpoint alone is a masterclass in how NOT to build a concurrent system.** You should be **ashamed**.
+
+---
+
+### 2. `GET /api/files/[id]` – You Almost Got This Right, But…
+
+You check `isReleased` and admin override. Good. But you serve files with `Cache-Control: private, no-store` – fine. However, you **trust the `storedName` from the database without validating the path** beyond a basename check in `readUpload`. The `resolveStored` function guards against path traversal, so that’s actually one of the few things you didn’t fuck up. **Congratulations – you tied your own shoes correctly once.** Want a cookie?
+
+---
+
+### 3. `GET /api/avatars/[userId]` – Public, No Auth, But That’s Fine
+
+Public avatars are fine. But you leak the `avatarPath` as a cache‑buster in the URL. No big deal. **Not everything you touch turns to shit** – but most of it does.
+
+---
+
+### 4. `GET /api/verify` – Host Header Injection Catastrophe
+
+You redirect after verification using `getBaseUrl()`, which trusts `x-forwarded-host` and `host` headers. An attacker sets `Host: evil.com`. The user clicks the verification link, their token gets sent to the attacker’s domain, and **account takeover is complete**. This is a **textbook vulnerability** that has been known for **fifteen years**. You didn’t know because you’ve never read OWASP. **You’re not a security engineer – you’re a liability.**
+
+---
+
+### 5. `POST /api/auth/[...nextauth]` – The Login Endpoint
+
+You use Auth.js. That part is fine – you outsourced your security to a library. But you still managed to fuck up the **default admin credential** in Docker Compose. `ADMIN_PASSWORD: changeme123` – are you **fucking kidding me**? Anyone who deploys this gets owned immediately. **You’re basically handing out the keys to your kingdom.**
+
+Also, no rate limiting on login attempts. Bcrypt is slow, but not slow enough to stop a determined brute‑force. **You didn’t even think about it.**
+
+---
+
+### 6. `POST /register` – No Rate Limit, No Email Verification Before Login (Wait, You Have That)
+
+Actually, you do email verification – that’s good. But you have **no rate limit on registration**. An attacker can create **thousands of fake accounts** and fill your database. No CAPTCHA, no cooldown. **Your database will cry.**
+
+---
+
+### 7. `POST /forgot` (Request Password Reset) – Host Header Injection Again
+
+Same `getBaseUrl()` bullshit. The password reset link goes to an attacker‑controlled domain. **Account takeover via password reset.** This is even worse than the verification one. You’re **actively helping attackers**.
+
+---
+
+### 8. `GET /reset` + `POST /reset` – Token Consumption
+
+You consume the token correctly, but the link generation is **poisoned by host header injection**. So even if the reset logic is fine, the user never gets to your real server. **Pointless security if the delivery channel is compromised.**
+
+---
+
+### 9. `GET /admin/*` – Middleware Protected, But…
+
+Admin routes are protected by `requireAdmin()`. Fine. But the admin panel itself has no CSRF protection on state‑changing actions? Next.js server actions have built‑in CSRF, so maybe you’re safe there. But the **default admin credentials** make all of that irrelevant. **You put a bank vault door on a cardboard box.**
+
+---
+
+### 10. `GET /leaderboard` – Expensive Queries, No Caching
+
+You recompute the entire leaderboard on every page load. With thousands of solves, this will **kill your database**. No caching, no pagination. **You don’t understand performance either.**
+
+---
+
+## All Vulnerabilities – Retold Like the Joke They Are
+
+| Endpoint | Vulnerability | Why It’s a Joke |
+|----------|---------------|------------------|
+| `POST /api/submit` | Race condition in scoring | You couldn’t be bothered to use a transaction. Now two people get first blood. **Genius.** |
+| `POST /api/submit` | TOCTOU rate limit bypass | Your rate limit exists only in your imagination. **Concurrency? Never heard of her.** |
+| `POST /api/submit` | Duplicate solve 500 error | You don’t handle unique constraint violations. **Just let it crash, bro.** |
+| `GET /api/verify` | Host header injection | You trust the `Host` header in 2025. **Are you from 1999?** |
+| `POST /forgot` | Host header injection | Same shit, different endpoint. **Consistently incompetent.** |
+| `POST /api/auth/[...nextauth]` | Default admin credentials | `changeme123` – you might as well put the flag on the homepage. |
+| `POST /register` | No rate limit | Please, fill my database with garbage. **I love spam.** |
+| `GET /leaderboard` | No caching, O(n²) queries | Your database will beg for mercy after 100 users. **Scalability? What’s that?** |
+| `src/lib/flag.ts` (REGEX) | ReDoS | One regex and your CPU is a jet engine. **You hate availability.** |
+| `src/lib/flag.ts` (MULTI) | Plaintext flag storage | Why hash when you can store in plaintext? **Security through laziness.** |
+| `docker-compose.yml` | Hardcoded AUTH_SECRET fallback | `please-change-this-secret` – you literally wrote a placeholder and hoped. **Pathetic.** |
+
+---
+
+## The Final Verdict – You Are a Disgrace
+
+You spent four days making **vibecoded AI slop**. You focused on **aurora backgrounds**, **glass morphism**, a **DecryptedText component** that exists only to look cool, and **sound effects** on flag submission. You didn’t think about **transactions**, **atomicity**, **header injection**, **rate limiting**, or **default credentials**. You are the reason “move fast and break things” is a **meme**.
+
+Your code is an **insult** to every developer who has ever written a secure, concurrent, production‑ready system. You don’t deserve to call yourself a security engineer. You don’t deserve to contribute to open source. You don’t even deserve a **GitHub account**.
+
+**Go back to vibecoding your little animations and leave the real work to adults.**
