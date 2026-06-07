@@ -1,0 +1,49 @@
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-ctf}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-ctf}
+      POSTGRES_DB: ${POSTGRES_DB:-ctf}
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-ctf} -d ${POSTGRES_DB:-ctf}"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+
+  app:
+    build:
+      context: .
+      target: runner
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      # App talks to the db service over the compose network.
+      DATABASE_URL: postgresql://${POSTGRES_USER:-ctf}:${POSTGRES_PASSWORD:-ctf}@db:5432/${POSTGRES_DB:-ctf}?schema=public
+      # CHANGE THIS in production: openssl rand -base64 32
+      AUTH_SECRET: ${AUTH_SECRET:-please-change-this-secret-in-production}
+      AUTH_URL: ${AUTH_URL:-http://localhost:3000}
+      AUTH_TRUST_HOST: "true"
+      UPLOAD_DIR: uploads
+      ADMIN_EMAIL: ${ADMIN_EMAIL:-admin@ctf.local}
+      ADMIN_USERNAME: ${ADMIN_USERNAME:-admin}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-changeme123}
+      SUBMIT_RATE_MAX: ${SUBMIT_RATE_MAX:-5}
+      SUBMIT_RATE_WINDOW_SECONDS: ${SUBMIT_RATE_WINDOW_SECONDS:-60}
+      MAIL_USERNAME: ${MAIL_USERNAME:-}
+      MAIL_PASSWORD: ${MAIL_PASSWORD:-}
+      MAIL_FROM: ${MAIL_FROM:-}
+    ports:
+      - "${APP_PORT:-3000}:3000"
+    volumes:
+      # Persist uploaded challenge files across restarts/rebuilds.
+      - uploads:/app/uploads
+
+volumes:
+  db-data:
+  uploads:
